@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: cyan;
+}
+
+p {
+    font-size:larger;
+    color:black
+}
